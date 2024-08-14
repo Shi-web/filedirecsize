@@ -1,7 +1,3 @@
-Here's a `README.md` file for your directory space calculation script:
-
----
-
 # Directory Space Calculator
 
 This Python script calculates the total size of all files within a specified directory (including its subdirectories). It's a simple tool that recursively traverses a directory and sums up the sizes of all contained files.
